@@ -1135,7 +1135,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v forceRenderStandby=0 slide=2048</string>
+				<string>forceRenderStandby=0 slide=2048</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>run-efi-updater</key>
